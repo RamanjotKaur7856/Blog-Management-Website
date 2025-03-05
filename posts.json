@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "Hello World",
+    "content": "This is our Blog Management Website",
+    "date": "2025-03-05T11:37:37.939Z"
+  }
+]
